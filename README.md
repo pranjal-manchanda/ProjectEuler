@@ -1,5 +1,5 @@
 # ProjectEuler
-(Hopefully) Elegnat solutions to Project Euler problems database in a blend of diffent languages.
+(Hopefully) Elegant solutions to Project Euler problems in different languages.
 
 ### Introduction
 
